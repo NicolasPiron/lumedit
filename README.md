@@ -1,4 +1,4 @@
-Goal of this project : control that all images in a stimulis set are equal in *perceived lightness*.
+Goal of this project : control that all images in a stimuli set are equal in *perceived lightness*.
 https://en.wikipedia.org/wiki/Lightness
 
 The transformation is based on the L* metric, which is not linear relative to light (as is the human visual system).
