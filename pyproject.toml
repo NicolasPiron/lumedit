@@ -1,0 +1,14 @@
+[project]
+name = "modif"
+version = "0.1.0"
+description = "Toy project to modify images' luminosity"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.2",
+    "pandas>=2.2.3",
+    "pillow>=11.1.0",
+    "ruff>=0.9.5",
+    "seaborn>=0.13.2",
+]
